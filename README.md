@@ -1,7 +1,7 @@
 # powerbi-ncov2019
 Power BI version of Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) Coronavirus (2019-nCoV) online dashboard.
 
-*The live Power BI report is up and running @ https://aka.ms/AA75ccn as shown below.*\
+*The live Power BI report is up and running @ https://aka.ms/AA75ccn as shown below.*
 
 ## 3 Feb 2020
 JHU CSSE has updated and made changes to the Google sheet links - added a new [time series](https://docs.google.com/spreadsheets/d/1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo/edit#gid=0) as well.
